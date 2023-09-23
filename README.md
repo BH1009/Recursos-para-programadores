@@ -1,5 +1,8 @@
 # Recursos para programadores
 
+![](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+---
 ## Indice
 
 1. [Paginas de cursos y bootcamps](#cursos-y-bootcamps)
@@ -58,6 +61,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Coderhouse](https://www.coderhouse.com.mx/)
 
+----
+
 ## Libros
 
 [Ebook Foundation](https://ebookfoundation.github.io/)
@@ -75,3 +80,9 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 [El libro de Python](https://ellibrodepython.com/)
 
 [La web del programador](https://www.lawebdelprogramador.com/)
+
+[Git Book](https://git-scm.com/book/en/v2)
+
+[Tutoriales en pdf](https://tutorialesenpdf.com/amp/)
+
+[Manual Informatica](https://manual-informatica.com/)
