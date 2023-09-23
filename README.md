@@ -2,9 +2,13 @@
 
 ## Indice
 
-1. [Paginas de cursos y bootcamps](#paginas-de-cursos-y-bootcamps)
+1. [Paginas de cursos y bootcamps](#cursos-y-bootcamps)
 
-## Paginas de cursos y bootcamps
+2. [Libros](#libros)
+
+----
+
+## Cursos y bootcamps
 
 Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambien tengo que comentar que algunos son de *paga*. 
 
@@ -51,3 +55,23 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 [Codigo Facilito](https://codigofacilito.com/)
 
 [TripleTen](https://tripleten.com/es-mex/)
+
+[Coderhouse](https://www.coderhouse.com.mx/)
+
+## Libros
+
+[Ebook Foundation](https://ebookfoundation.github.io/)
+
+[The Goalkicker](https://books.goalkicker.com/)
+
+[Open Libra](https://openlibra.com/es/collection)
+
+[Annas Archive](https://es.annas-archive.org/)
+
+[JavaScript info](https://javascript.info/)
+
+[Aprende Python](https://aprendepython.es/)
+
+[El libro de Python](https://ellibrodepython.com/)
+
+[La web del programador](https://www.lawebdelprogramador.com/)
