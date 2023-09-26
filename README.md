@@ -102,6 +102,10 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Manual Informatica](https://manual-informatica.com/)
 
+[Flavio Copes](https://flaviocopes.com/access)
+
+[Java5cript](https://www.java5cript.com)
+
 ## Paginas para practicar programación
 
 [Adventjs](https://adventjs.dev/es)
