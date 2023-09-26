@@ -1,15 +1,26 @@
 # Recursos para programadores
 
-![](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ---
 ## Indice
 
-1. [Paginas de cursos y bootcamps](#cursos-y-bootcamps)
+1. [Rutas de aprendizaje](#rutas-de-aprendizaje)
 
-2. [Libros](#libros)
+2. [Paginas de cursos y bootcamps](#cursos-y-bootcamps)
+
+3. [Libros](#libros)
+
+4. [Informacion-ejemplos-y-documentacion](#informacion-ejemplos-y-documentacion)
+
+5. [Ejemplos-de-proyectos](#ejemplos-de-proyectos)
 
 ----
+
+## Rutas de aprendizaje
+
+[Roadmap](https://roadmap.sh/)
+
 
 ## Cursos y bootcamps
 
@@ -61,6 +72,10 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Coderhouse](https://www.coderhouse.com.mx/)
 
+[Aula Facil](https://www.aulafacil.com/)
+
+[Hubspot Academy](https://academy.hubspot.com/#)
+
 ----
 
 ## Libros
@@ -86,3 +101,48 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 [Tutoriales en pdf](https://tutorialesenpdf.com/amp/)
 
 [Manual Informatica](https://manual-informatica.com/)
+
+## Paginas para practicar programación
+
+[Adventjs](https://adventjs.dev/es)
+
+[Leetcode](https://leetcode.com/) 
+
+[Exercism](https://exercism.org/)
+
+[HackerRank](https://www.hackerrank.com/)
+
+[Flyncer](https://flyncer.com/)
+
+[DevChallenges](https://devchallenges.io/challenges)
+
+[Frontend Practice](https://www.frontendpractice.com/)
+
+[Frontend Mentor](https://www.frontendmentor.io/)
+
+[JavaScript 30](https://javascript30.com/)
+
+[100 Days CSS](https://100dayscss.com/)
+
+[50 projects in 50 days](https://50projects50days.com/)
+
+-----
+
+## Informacion, ejemplos y documentacion
+
+[DevDocs](https://devdocs.io/)
+
+[Zeal Docs](https://zealdocs.org/)
+
+[w3schools](https://www.w3schools.com)
+
+[Geeks for Geeks](https://www.geeksforgeeks.org/)
+
+[Learn x in y minutes](https://learnxinyminutes.com/)
+
+[Regactoring Guru](https://refactoring.guru/)
+
+
+## Ejemplos de proyectos
+
+[Kashipara](https://www.kashipara.com/)
