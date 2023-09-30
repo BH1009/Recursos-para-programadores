@@ -150,7 +150,7 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Regactoring Guru](https://refactoring.guru/)
 
-
+[Patterns](https://www.patterns.dev)
 ## Ejemplos de proyectos
 
 [Kashipara](https://www.kashipara.com/)
