@@ -36,6 +36,10 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [TodoCode Academy](https://todocodeacademy.com/)
 
+[Aprende JavaScript](https://www.aprendejavascript.dev)
+
+[Jon Mircha](https://jonmircha.com)
+
 [Mindluster](https://www.mindluster.com/)
 
 [Skills for All](https://skillsforall.com/)
