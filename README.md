@@ -21,6 +21,7 @@
 
 [Roadmap](https://roadmap.sh/)
 
+----
 
 ## Cursos y bootcamps
 
@@ -110,6 +111,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Java5cript](https://www.java5cript.com)
 
+----
+
 ## Paginas para practicar programación
 
 [Adventjs](https://adventjs.dev/es)
@@ -155,6 +158,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 [Patterns](https://www.patterns.dev)
 
 [Visualgo](https://visualgo.net/en)
+
+----
 
 ## Ejemplos de proyectos
 
