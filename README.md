@@ -81,6 +81,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Hubspot Academy](https://academy.hubspot.com/#)
 
+[ClaseFlix](https://claseflix.com)
+
 ----
 
 ## Libros
@@ -108,6 +110,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 [Manual Informatica](https://manual-informatica.com/)
 
 [Flavio Copes](https://flaviocopes.com/access)
+
+[Riptutorial](https://riptutorial.com)
 
 [Java5cript](https://www.java5cript.com)
 
