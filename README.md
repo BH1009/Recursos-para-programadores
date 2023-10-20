@@ -165,6 +165,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Visualgo](https://visualgo.net/en)
 
+[web.dev](https://web.dev/learn)
+
 ----
 
 ## Ejemplos de proyectos
