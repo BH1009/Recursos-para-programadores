@@ -21,6 +21,8 @@
 
 [Roadmap](https://roadmap.sh/)
 
+[Awesome Data Engineering](https://awesomedataengineering.com)
+
 ----
 
 ## Cursos y bootcamps
@@ -85,6 +87,9 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Aprender Gratis](https://aprendergratis.es/)
 
+[Level Up](https://levelup.video)
+
+[Universal Robots](https://www.universal-robots.com)
 ----
 
 ## Libros
