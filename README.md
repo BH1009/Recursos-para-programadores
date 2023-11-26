@@ -23,6 +23,8 @@
 
 [Awesome Data Engineering](https://awesomedataengineering.com)
 
+[The Valley Of Code](https://thevalleyofcode.com)
+
 ----
 
 ## Cursos y bootcamps
