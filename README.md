@@ -11,9 +11,11 @@
 
 3. [Libros](#libros)
 
-4. [Informacion-ejemplos-y-documentacion](#informacion-ejemplos-y-documentacion)
+4. [Paginas para practicar programación](#Paginas para practicar programación)
 
-5. [Ejemplos-de-proyectos](#ejemplos-de-proyectos)
+6. [Informacion-ejemplos-y-documentacion](#informacion-ejemplos-y-documentacion)
+
+7. [Ejemplos-de-proyectos](#ejemplos-de-proyectos)
 
 ----
 
