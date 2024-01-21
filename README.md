@@ -11,7 +11,7 @@
 
 3. [Libros](#libros)
 
-4. [Paginas para practicar programación](#Paginas para practicar programación)
+4. [Paginas para practicar programación](#paginas-para-practicar-programación)
 
 6. [Informacion-ejemplos-y-documentacion](#informacion-ejemplos-y-documentacion)
 
@@ -26,6 +26,8 @@
 [Awesome Data Engineering](https://awesomedataengineering.com)
 
 [The Valley Of Code](https://thevalleyofcode.com)
+
+[Web Skills](https://andreasbm.github.io/web-skills/)
 
 ----
 
@@ -97,6 +99,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [365 Data Science](https://365datascience.com)
 
+[hackr.io](https://hackr.io/)
+
 ----
 
 ## Libros
@@ -163,6 +167,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Aprende con Alf](https://aprendeconalf.es/docencia/)
 
+[Red Blob Games](https://www.redblobgames.com/)
+
 -----
 
 ## Informacion, ejemplos y documentacion
@@ -186,6 +192,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 [web.dev](https://web.dev/learn)
 
 [Tutoriales porgramacion ya](https://www.tutorialesprogramacionya.com)
+
+[Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 
 ----
 
