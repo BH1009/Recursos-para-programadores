@@ -200,3 +200,5 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 ## Ejemplos de proyectos
 
 [Kashipara](https://www.kashipara.com/)
+
+[Code with Curious](https://codewithcurious.com/projects/)
