@@ -101,6 +101,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [hackr.io](https://hackr.io/)
 
+[php for begginers](https://laracasts.com/series/php-for-beginners-2023-edition)
+
 ----
 
 ## Libros
