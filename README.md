@@ -105,6 +105,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [node jsera](https://www.nodejsera.com/index.html)
 
+[Elements of AI](https://course.elementsofai.com/es/)
+
 ----
 
 ## Libros
