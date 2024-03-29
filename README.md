@@ -141,6 +141,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Valley Of Code](https://thevalleyofcode.com/)
 
+[Free Computer Books](https://freecomputerbooks.com)
+
 ----
 
 ## Paginas para practicar programación
