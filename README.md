@@ -145,6 +145,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Free Computer Books](https://freecomputerbooks.com)
 
+[Invent With Python](https://inventwithpython.com)
+
 ----
 
 ## Paginas para practicar programación
