@@ -109,6 +109,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Coddy](https://coddy.tech)
 
+[Figma 101](https://shiftnudge.com/figma)
+
 ----
 
 ## Libros
