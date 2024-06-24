@@ -185,8 +185,6 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Red Blob Games](https://www.redblobgames.com/)
 
-[Nodejsera](https://www.nodejsera.com/30-days-of-node.html)
-
 -----
 
 ## Informacion, ejemplos y documentacion
