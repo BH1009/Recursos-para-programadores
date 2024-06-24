@@ -111,6 +111,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Figma 101](https://shiftnudge.com/figma)
 
+[Tuts+](https://tutsplus.com)
+
 ----
 
 ## Libros
