@@ -149,6 +149,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Invent With Python](https://inventwithpython.com)
 
+[Frontend Master Guide](https://frontendmasters.com/guides/front-end)
+
 ----
 
 ## Paginas para practicar programación
