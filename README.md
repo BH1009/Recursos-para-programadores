@@ -113,6 +113,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Tuts+](https://tutsplus.com)
 
+[Edabit](https://edabit.com)
+
 ----
 
 ## Libros
