@@ -115,6 +115,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Edabit](https://edabit.com)
 
+[Class Central](https://www.classcentral.com)
+
 ----
 
 ## Libros
