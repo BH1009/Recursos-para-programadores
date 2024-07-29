@@ -123,6 +123,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [DataTalksClub](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
+[My Great Learning](https://www.mygreatlearning.com/academy)
+
 ----
 
 ## Libros
