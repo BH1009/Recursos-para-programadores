@@ -119,6 +119,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Class Central](https://www.classcentral.com)
 
+[DataTalksClub](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+
 ----
 
 ## Libros
