@@ -21,6 +21,8 @@
 
 ## Rutas de aprendizaje
 
+[Intial Learning Path](https://gist.github.com/LeaTex/473f36a7f89967bc3dcbc5cf2f84d3eb)
+
 [Roadmap](https://roadmap.sh/)
 
 [Awesome Data Engineering](https://awesomedataengineering.com)
