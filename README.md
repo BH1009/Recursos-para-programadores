@@ -61,6 +61,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [OpenEDG](https://openedg.org/)
 
+[Open Bootcamp](https://open-bootcamp.com)
+
 [Scrimba](https://scrimba.com/)
 
 [Edutin Academy](https://app.edutin.com/category)
@@ -126,6 +128,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 [DataTalksClub](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 [My Great Learning](https://www.mygreatlearning.com/academy)
+
+[Academica](https://academica.mx)
 
 ----
 
