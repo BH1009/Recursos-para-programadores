@@ -213,6 +213,10 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Collect UI](https://collectui.com)
 
+[Project Euler](https://projecteuler.net)
+
+[Codeabby](https://www.codeabbey.com)
+
 -----
 
 ## Informacion, ejemplos y documentacion
