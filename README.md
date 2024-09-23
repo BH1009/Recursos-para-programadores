@@ -87,6 +87,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Harvard University](https://pll.harvard.edu/catalog)
 
+[Stanford](https://online.stanford.edu/courses/soe-ycscs101-computer-science-101)
+
 [Codigo Facilito](https://codigofacilito.com/)
 
 [TripleTen](https://tripleten.com/es-mex/)
