@@ -133,6 +133,8 @@ Algunos de estas paginas ofrecen cursos variados no solo de programacion, tambie
 
 [Academica](https://academica.mx)
 
+[Linux Journey](https://linuxjourney.com)
+
 ----
 
 ## Libros
